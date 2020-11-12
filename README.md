@@ -6,4 +6,4 @@ While my website building experience dates back to the age of GeoCities, I've be
 
 In addition, for the last fifteen years I have been an active member of the local Athens music scene as an artist manager, digital marketer, recording engineer and ally of musicians and performers.
 
-More about me at my site: [decamp.dev](https://decamp.dev).
+[decamp.dev](https://decamp.dev).
